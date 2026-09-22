@@ -1,17 +1,18 @@
 name="golang"
-display_name="Go lang"
-latest_ver="1.27.1"
+display_name="Go"
+latest_ver="1.24.2"
 
 [lang.Installer]
-ReqAdmin=true
-path="C:/Program Files/Go"
+ReqAdmin=false
+path="%localappdata%/go"
+path_bin="bin"
 
-[lang.1_27_1] # 1_27_1 will be turn to 1.27.1
-version="1.27.1"
-url="https://go.dev/dl/go1.27.1.windows-amd64.zip"
-hash="sha256:a3911b5e0e1b1053f25ed0675f4c1c6aad1e2bfcf253df2b9be4caabd2edd95d"
+[langs.1_24_2]
+version="1.24.2"
+url="https://go.dev/dl/go1.24.2.windows-amd64.zip"
+hash="sha256:284a7a96cbc3ae53dc87c7b8bc59c956ce98c1c33a43f4285529e27a7cd72e0c"
 
-[lang.1_26_8]
-version="1.26.8"
-url="https://go.dev/dl/go1.26.8.windows-amd64.zip"
-hash="sha256:b92c3b2adae85a11ba71fe7216daf0d84e82af4c8ab6c5625807f28622043a59"
+[langs.1_23_8]
+version="1.23.8"
+url="https://go.dev/dl/go1.23.8.windows-amd64.zip"
+hash="sha256:b1c898cf05879bd5a2cbc69e3b5c1d84938c37e4fe4bff5e396b90f9e0be6e33"

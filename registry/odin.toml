@@ -1,0 +1,21 @@
+name="odin"
+display_name="odin lang"
+latest_ver="dev-2026-09"
+
+[lang.Installer]
+ReqAdmin=false
+path="%USERPROFILE%/.odin"
+Notes="This programming language required Window SDK and VS2022 or later"
+
+[lang.dev-2026-09]
+version="dev-2026-09"
+url="https://github.com/odin-lang/Odin/releases/download/dev-2026-09/odin-windows-amd64-dev-2026-09.zip"
+hash="sha256:8ed8abd95b82e0af1eb7e86cb75f380fd8bde104947721817b35929f5fc19388"
+#hash_url=""
+#minisig=""
+#minisig_url=""
+
+[lang.dev-2026-08]
+version="dev-2026-08"
+url="https://github.com/odin-lang/Odin/releases/download/dev-2026-09/odin-windows-amd64-dev-2026-09.zip"
+hash="sha256:8ed8abd95b82e0af1eb7e86cb75f380fd8bde104947721817b35929f5fc19388"

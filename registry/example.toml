@@ -1,0 +1,15 @@
+name="lang"
+display_name="lang"
+latest_ver="0.0.0"
+
+[lang.Installer]
+ReqAdmin=true
+path=""
+
+[lang.0_0_0]
+version="0.0.0"
+url=""
+hash=""
+#hash_url=""
+#minisig=""
+#minisig_url=""

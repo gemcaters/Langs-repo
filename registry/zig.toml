@@ -1,5 +1,6 @@
 name="zig"
 latest_ver="0.17.0"
+License="MIT"
 
 [lang.Installer]
 ReqAdmin=false

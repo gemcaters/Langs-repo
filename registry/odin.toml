@@ -1,6 +1,7 @@
 name="odin"
 display_name="odin lang"
 latest_ver="dev-2026-09"
+License="BSD 3-Clause License"
 
 [lang.Installer]
 ReqAdmin=false

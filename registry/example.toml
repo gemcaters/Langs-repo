@@ -1,6 +1,7 @@
 name="lang"
 display_name="lang"
 latest_ver="0.0.0"
+License="MIT"
 
 [lang.Installer]
 ReqAdmin=true

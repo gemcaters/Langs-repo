@@ -1,6 +1,7 @@
 name="golang"
 display_name="Go"
 latest_ver="1.24.2"
+License="BSD 3-Clause License"
 
 [lang.Installer]
 ReqAdmin=false

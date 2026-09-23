@@ -3,10 +3,6 @@ display_name="vlang"
 latest_ver="0.5.2"
 License="MIT"
 
-[lang.Installer]
-ReqAdmin=false
-path="%localappdata%/vlang"
-
 [lang.0_5_2]
 version="0.5.2"
 url="https://github.com/vlang/v/releases/download/0.5.2/v_windows.zip"

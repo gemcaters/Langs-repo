@@ -4,9 +4,7 @@ latest_ver="dev-2026-09"
 License="BSD 3-Clause License"
 
 [lang.Installer]
-ReqAdmin=false
-path="%USERPROFILE%/.odin"
-Notes="This programming language required Window SDK and VS2022 or later"
+Notes="This programming language required VS2022 or later Must include WindoW SDK"
 
 [lang.dev-2026-09]
 version="dev-2026-09"

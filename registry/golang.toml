@@ -4,8 +4,6 @@ latest_ver="1.24.2"
 License="BSD 3-Clause License"
 
 [lang.Installer]
-ReqAdmin=false
-path="%localappdata%/go"
 path_bin="bin"
 
 [langs.1_24_2]

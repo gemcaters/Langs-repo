@@ -1,0 +1,15 @@
+name="d"
+display_name="D lang"
+latest_ver="2.113.0"
+License="MIT"
+
+#[lang.Installer]
+#path=""
+
+[lang.2_113_0]
+version="2.113.0"
+url="https://downloads.dlang.org/releases/2.x/2.113.0/dmd.2.113.0.windows.7z"
+sig_url="https://downloads.dlang.org/releases/2.x/2.113.0/dmd.2.113.0.windows.7z.sig"
+#hash_url=""
+#minisig=""
+#minisig_url=""

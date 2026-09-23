@@ -3,9 +3,9 @@ display_name="lang"
 latest_ver="0.0.0"
 License="MIT"
 
-[lang.Installer]
-ReqAdmin=true
-path=""
+#[lang.Installer]
+#Notes=""
+#Types="archives"/"msi"/"nsis"/etc..
 
 [lang.0_0_0]
 version="0.0.0"
@@ -14,3 +14,5 @@ hash=""
 #hash_url=""
 #minisig=""
 #minisig_url=""
+#sig=""
+#sig_url=""
